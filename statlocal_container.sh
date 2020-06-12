@@ -2,7 +2,7 @@ echo "NGINX_CONF=development.conf" > .env
 
 echo "INSTALLFOLDER=/home/unix/dev/nginx" >> .env
 
-echo "WEBROOT=/home/unix/dev/nginx/webroot" >> .env
+echo "WEBROOT=/home/unix/dev/nginx/webroot/output" >> .env
 
 cat .env
 
@@ -12,4 +12,4 @@ docker-compose build
 
 docker-compose up -d
 
-echo "start_local_container.finished"
+echo "startlocal_container.finished"

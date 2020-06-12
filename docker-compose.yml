@@ -6,7 +6,7 @@ volumes:
     driver_opts:
       type: none
       o: bind
-      device: ${WEBROOT}/output
+      device: ${WEBROOT}
   log:
     driver: local
     driver_opts:
