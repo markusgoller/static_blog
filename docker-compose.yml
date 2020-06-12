@@ -1,0 +1,36 @@
+version: '3'
+
+volumes:
+  nginx_log:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${INSTALLFOLDER}/log/
+  nginx_static:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${INSTALLFOLDER}
+  nginx_media:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${INSTALLFOLDER}
+
+services:
+  nginx:
+    restart: unless-stopped
+    container_name: nginx
+    build: 
+      context: "./nginx"
+      args: 
+        NGINX_CONF: ${NGINX_CONF}
+    volumes:
+      - nginx_static:/www/static
+      - nginx_media:/www/media
+    ports:
+      - "80:80"
+      - "443:443"
