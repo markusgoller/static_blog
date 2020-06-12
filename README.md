@@ -1,0 +1,2 @@
+# nginx
+www.markusgoller.at
