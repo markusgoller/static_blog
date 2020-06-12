@@ -1,0 +1,8 @@
+# Files
+.env
+*.cpython
+*.log
+
+# Folder
+__pycache__
+webroot/output/*

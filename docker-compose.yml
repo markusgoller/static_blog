@@ -1,7 +1,13 @@
 version: '3'
 
 volumes:
-  nginx_log:
+  webroot:
+    driver: local
+    driver_opts:
+      type: none
+      o: bind
+      device: ${WEBROOT}/output
+  log:
     driver: local
     driver_opts:
       type: none
@@ -29,6 +35,8 @@ services:
       args: 
         NGINX_CONF: ${NGINX_CONF}
     volumes:
+      - webroot:/webroot
+      - log:/log
       - nginx_static:/www/static
       - nginx_media:/www/media
     ports:
