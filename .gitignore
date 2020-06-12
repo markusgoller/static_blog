@@ -6,3 +6,4 @@
 # Folder
 __pycache__
 webroot/output/*
+webroot/markusgoller/*

@@ -8,6 +8,8 @@ cat .env
 
 mkdir -p /etc/docker/nginx/log/nginx
 
+docker-compose stop
+
 docker-compose build
 
 docker-compose up -d
