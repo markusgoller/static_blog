@@ -33,3 +33,9 @@ DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+# Theme
+THEME='/home/unix/dev/attila'
+#HOME_COVER = '/home/unix/dev/attila/DSC04667.JPG'
+#HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
+HEADER_COLOR =  'blue'
