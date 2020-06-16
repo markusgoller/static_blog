@@ -36,6 +36,6 @@ DEFAULT_PAGINATION = False
 
 # Theme
 THEME='/home/unix/dev/attila'
-#HOME_COVER = '/home/unix/dev/attila/DSC04667.JPG'
+HOME_COVER = '/home/unix/dev/nginx/webroot/markusgoller/theme/images/contact-bg.jpg'
 #HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
-HEADER_COLOR =  'blue'
+#HEADER_COLOR =  'blue'
