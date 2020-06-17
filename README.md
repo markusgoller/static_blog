@@ -12,7 +12,7 @@ conda activate pelican
 ## Development
 ```
 cd ./webroot
-make serve devserver
+make devserver
 ```
 
 ## Build
