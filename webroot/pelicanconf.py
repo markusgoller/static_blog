@@ -36,11 +36,15 @@ DEFAULT_PAGINATION = False
 
 # Theme
 THEME='../../pelican_themes/attila'
+HEADER_COLOR =  'green'
+#HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
+#HOME_COVER = 'https://github.com/arulrajnet/attila/blob/master/static/images/post-bg.jpg'
+
+# Theme Does not work
 #HOME_COVER = '/home/unix/anaconda3/envs/pelican/lib/python3.8/site-packages/pelican/themes/attila/static/images/home-bg.jpg'
 #HEADER_COVER = 'static/my_image.png'
-#HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 #HOME_COVER = '/home/unix/Downloads/remote_kaese.jpg'
 #HOME_COVER = 'https://extrajournal.net/subwpd/wp-content/uploads/2019/11/VW-ID.-Space-Vizzion-Credit-Volkswagen-AG.jpg'
-HEADER_COLOR =  'green'
-#A definition of a custom header cover is not possible
+
+
 
