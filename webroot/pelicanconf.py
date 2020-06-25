@@ -35,10 +35,16 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Theme
-THEME='../../pelican_themes/attila'
-HEADER_COLOR =  'green'
+#THEME='../../pelican_themes/attila_arulrajnet'
+#HEADER_COLOR =  'green'
+#HEADER_COVER = 'images/elenabsl_shutterstock.jpg'
 #HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 #HOME_COVER = 'https://github.com/arulrajnet/attila/blob/master/static/images/post-bg.jpg'
+
+
+# Theme
+THEME='../../pelican_themes/attila_msvalina'
+HOME_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
 
 # Theme Does not work
 #HOME_COVER = '/home/unix/anaconda3/envs/pelican/lib/python3.8/site-packages/pelican/themes/attila/static/images/home-bg.jpg'
