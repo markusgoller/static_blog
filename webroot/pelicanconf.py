@@ -46,6 +46,7 @@ DEFAULT_PAGINATION = False
 THEME='../../pelican_themes/attila_msvalina'
 HOME_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
 
+
 # Theme Does not work
 #HOME_COVER = '/home/unix/anaconda3/envs/pelican/lib/python3.8/site-packages/pelican/themes/attila/static/images/home-bg.jpg'
 #HEADER_COVER = 'static/my_image.png'
