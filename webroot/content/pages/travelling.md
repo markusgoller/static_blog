@@ -8,9 +8,9 @@ Date: 2020-06-12 21:00
 ![Photo]({attach}images/IMG_20191110_170235.jpg)
 ### Hiking above Innsbruck; Tyrol, Austria.
 
-![Photo]({attach}images/IMG_20170908_182103.jpg)
+![Photo]({attach}images/IMG_20170908_182103_edited.jpg)
 ### Above the Achensee; Tyrol, Austria.
 
-![Photo]({attach}images/IMG_20180926_185843.jpg)
+![Photo]({attach}images/IMG_20180926_185843_edited.jpg)
 ### Climbing in the Oetztal; Tyrol, Austria.
 
