@@ -5,7 +5,7 @@ Date: 2020-06-12 21:00
 ## Here are some places I have been lately.
 
 
-![Photo]({attach}images/IMG_20191110_170235.jpg)
+<img src="images/IMG_20191110_170235.jpg" alt="drawing" width="20"/>
 ### Hiking above Innsbruck; Tyrol, Austria.
 
 ![Photo]({attach}images/IMG_20170908_182103_edited.jpg)

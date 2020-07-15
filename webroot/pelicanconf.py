@@ -26,8 +26,10 @@ LINKS = (('Pelican', 'http://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SHOW_SOCIAL_ON_INDEX_PAGE_HEADER = True
+SOCIAL = (('github', 'https://github.com/markusgoller'),
+          #('linkedin','https://www.linkedin.com/in/markus-goller-ab975317a/')
+          )
 
 DEFAULT_PAGINATION = False
 
@@ -35,16 +37,19 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Theme
+THEME='../../pelican_themes/attila_msvalina'
+HOME_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
+
+# Theme
+#THEME='../../pelican_themes/pelican-clean-blog'
+#HEADER_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
+
+# Theme
 #THEME='../../pelican_themes/attila_arulrajnet'
 #HEADER_COLOR =  'green'
 #HEADER_COVER = 'images/elenabsl_shutterstock.jpg'
 #HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 #HOME_COVER = 'https://github.com/arulrajnet/attila/blob/master/static/images/post-bg.jpg'
-
-
-# Theme
-THEME='../../pelican_themes/attila_msvalina'
-HOME_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
 
 
 # Theme Does not work
