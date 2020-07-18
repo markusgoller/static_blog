@@ -5,12 +5,12 @@ Date: 2020-06-12 21:00
 ## Here are some places I have been lately.
 
 
-<img src="images/IMG_20191110_170235.jpg" alt="drawing" width="20"/>
+![Photo]({attach}images/IMG_20191110_170235_crop.jpg)
 ### Hiking above Innsbruck; Tyrol, Austria.
 
-![Photo]({attach}images/IMG_20170908_182103_edited.jpg)
+![Photo]({attach}images/IMG_20170908_182103_edited_1.jpg)
 ### Above the Achensee; Tyrol, Austria.
 
-![Photo]({attach}images/IMG_20180926_185843_edited.jpg)
+![Photo]({attach}images/IMG_20180926_185843_edited_1.jpg)
 ### Climbing in the Oetztal; Tyrol, Austria.
 
