@@ -1,7 +1,8 @@
 Title: Raspberry Pi Rail Slider
 Date: 2020-06-12 21:00
+og_image:images/IMG_20200705_163233_edited_1.jpg
 
-# One project I did and currently do is the following.
+** One project I did and currently do is the following.**
 ![Photo]({attach}images/IMG_20200712_115919_compressed.jpg)
 #### Here you can see the whole construction at a glance.
 
