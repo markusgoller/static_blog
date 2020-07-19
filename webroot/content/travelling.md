@@ -10,7 +10,7 @@ og_image:images/DSC04664_edited.jpg
 ### Hiking above Innsbruck; Tyrol, Austria.
 
 ![Photo]({attach}/images/IMG_20170908_182103_edited_1.jpg)
-### Above the Achensee; Tyrol, Austria.
+### Fonduing Above the Achensee; Tyrol, Austria.
 
 ![Photo]({attach}/images/IMG_20180926_185843_edited_1.jpg)
 ### Climbing in the Oetztal; Tyrol, Austria.
