@@ -7,7 +7,7 @@ og_image:images/IMG_20200705_163233_edited_1.jpg
 #### Here you can see the whole construction at a glance.
 
 Well, what's all this. As you can see, here is a Rasperry Pi mounted on a metal sled. 
-Basically the camera is pulled along the sled with the help of a motor. I was inspired by the projects of this page [www.DavidHunt.ie](http://www.davidhunt.ie/)
+Basically the camera is pulled along the sled with the help of a motor. I was inspired by the projects of this page [www.DavidHunt.ie](http://www.davidhunt.ie/).
 ## Construction
 ![Photo]({attach}images/IMG_20200709_191035_resize.jpg)
 ![Photo]({attach}images/IMG_20200709_191045_resize.jpg)
