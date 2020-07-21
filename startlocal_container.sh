@@ -2,7 +2,7 @@ echo "NGINX_CONF=development.conf" > .env
 
 echo "INSTALLFOLDER=/home/unix/dev/nginx" >> .env
 
-echo "WEBROOT=/home/unix/dev/nginx/webroot/output" >> .env
+echo "WEBROOT=/home/unix/dev/static_blog/webroot/output" >> .env
 
 cat .env
 

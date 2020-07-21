@@ -6,8 +6,8 @@ make html
 
 cd ../
 
-rsync -a --delete-before --progress --exclude-from='.gitignore' --exclude='*.git*' --exclude='webroot' --exclude='log' --exclude='statlocal_container.sh' /home/unix/dev/nginx/ webserver@markusgoller.at:/etc/docker/nginx
+rsync -a --delete-before --progress --exclude-from='.gitignore' --exclude='*.git*' --exclude='webroot' --exclude='log' --exclude='statlocal_container.sh' /home/unix/dev/static_blog/ webserver@markusgoller.at:/etc/docker/nginx
 
-rsync -a --delete-before --progress /home/unix/dev/nginx/webroot/markusgoller webserver@markusgoller.at:/www/
+rsync -a --delete-before --progress /home/unix/dev/static_blog/webroot/markusgoller webserver@markusgoller.at:/www/
 
 echo "rsync nginx done"
