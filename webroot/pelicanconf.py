@@ -38,7 +38,7 @@ DEFAULT_PAGINATION = False
 
 # Theme
 THEME='../../pelican_themes/attila_msvalina'
-HOME_COVER = 'images/test_dreizinnen_wanderung_nik.JPG'
+HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
 
 # Theme
 #THEME='../../pelican_themes/pelican-clean-blog'
