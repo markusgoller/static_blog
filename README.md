@@ -1,4 +1,4 @@
-# nginx
+# static_blog
 My personal website: [http://markusgoller.at](http://markusgoller.at)
 
 ## nginx logfiles
