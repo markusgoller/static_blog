@@ -1,6 +1,7 @@
 Title: Weather Station
 Date: 2020-07-18 16:00
 og_image:images/IMG_20200630_170836_edited_1.jpg
+Tags: Raspberry Pi, Python, weather station
 
 # As a studied atmospheric scientist it is almost a duty to operate a weather station.
 ![Photo]({attach}images/IMG_20200705_154307_resize.jpg)

@@ -1,6 +1,7 @@
 Title: Raspberry Pi Rail Slider
 Date: 2020-06-29 21:00
 og_image:images/IMG_20200705_163233_edited_1.jpg
+Tags: Raspberry Pi, Python, Time Lapse
 
 ** One project I did and currently do is the following.**
 ![Photo]({attach}images/IMG_20200712_115919_compressed.jpg)
