@@ -60,4 +60,4 @@ AUTHORS_BIO = {
   }
 }
 
-
+# Testing if Contributions calendar work directy from github and not via Visual Code Studio
