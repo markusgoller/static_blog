@@ -1,5 +1,6 @@
 Title: Raspberry Pi Rail Slider
 Date: 2020-06-29 21:00
+Modified: 2020-07-25 19:30
 og_image:images/IMG_20200705_163233_edited_1.jpg
 Tags: Raspberry Pi, Python, Time Lapse
 
@@ -13,9 +14,18 @@ Basically the camera is pulled along the sled with the help of a motor. I was in
 ![Photo]({attach}images/IMG_20200709_191035_resize.jpg)
 ![Photo]({attach}images/IMG_20200709_191045_resize.jpg)
 
+#### What I needed for this project
+* Raspberry Pi
+* Raspberry Pi Camera
+* Raspberry Pi Touchscreen
+* Powerbank
+* Wires
+* Motor
+
+
+
 ## Code Snippets
 The original code is from James Moore and was edited by me. 
-
 ```python
 #!/usr/bin/env python
 #  raspiLapseCam.py
@@ -55,7 +65,7 @@ while True:
         # Just trapping out the WHILE Statement
         print('=============== Doing nothing at this time')
 ```
-#### Will be continued...
+#### Will be continued...vvvvv
 
 
 
