@@ -10,19 +10,25 @@ Tags: Raspberry Pi, Python, Time Lapse
 
 Well, what's all this. As you can see, here is a Rasperry Pi mounted on a metal sled. 
 Basically the camera is pulled along the sled with the help of a motor. I was inspired by the projects of this page [www.DavidHunt.ie](http://www.davidhunt.ie/).
+
 ## Construction
 ![Photo]({attach}images/IMG_20200709_191035_resize.jpg)
 ![Photo]({attach}images/IMG_20200709_191045_resize.jpg)
 
-#### What I needed for this project
-* Raspberry Pi
-* Raspberry Pi Camera
-* Raspberry Pi Touchscreen
-* Powerbank
-* Wires
-* Motor
-
-
+#### What I basically needed for this project
+* Raspberry Pi (Pi)
+* Pi Camera
+* Touchscreen
+* 5V Powerbank
+* wires
+* geared 12V DC Motor
+* belt
+* washer for fixing the belt
+* 2 iron rods (I took clothes rails)
+* sled 
+* ball bearings
+* mounting plate
+* ...
 
 ## Code Snippets
 The original code is from James Moore and was edited by me. 
@@ -65,7 +71,7 @@ while True:
         # Just trapping out the WHILE Statement
         print('=============== Doing nothing at this time')
 ```
-#### Will be continued...vvvvv
+#### Will be continued...
 
 
 

@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Markus'
-SITENAME = 'markusgoller.at'
+SITENAME = 'markusgoller'
 SITEURL = ''
 
 PATH = 'content'
@@ -39,6 +39,7 @@ DEFAULT_PAGINATION = False
 # Theme
 THEME='../../pelican_themes/attila_msvalina'
 HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
+#HOME_COVER = 'images/IMG-20200726-WA0003.jpg'
 
 # Theme
 #THEME='../../pelican_themes/pelican-clean-blog'
@@ -60,4 +61,3 @@ AUTHORS_BIO = {
   }
 }
 
-# Testing if github contributions calendar works from Visual Code Studio
