@@ -12,15 +12,16 @@ Short answer, crowdfunding via [Kickstarter](https://www.kickstarter.com/project
 The campaign was launched in May 2020 and ended in July 2019.
 
 The so called [AmbaSAT-1](https://ambasat.com/) is a small satellite (Sprite-class Space satellite). 
-The sprites will be sent to everybody who backed a kit.
-Depending on the kit you backed, you can assemble and code it yourself. 
+The sprites will be sent to everybody who backed a kit. 
+There are a few options how to equip your satellite, I took a gas sensor [AmbaSat-1 Sensor 03 – BME680](https://ambasat.com/product/ambasat-1-sensor-03/).  
+Depending on the kit you backed, you can assemble and code it yourself.
 
 The next step is testing the sensors mounted on the satellite, AmbaSat has therefore it's own Dashboard.
-About two month before launch the spacecraft it will be send back to AmbaSAT and they will do pre-launch testings.
+About two month before launch the spacecraft will be send back to AmbaSAT and they will do pre-launch testings.
 They will do a compliance-, two-week soak-, followed by a vibration test.
 
 Then if everything is ok the spacecrafts will be send to [Interorbital Systems](https://www.interorbital.com/) (IOS).
-Before launching, the individual spacecrafts they will be deployed in a CubeSAT.
+Before launching, the individual spacecrafts will be deployed in a CubeSAT.
 
 The launch of the rocket should be in the year 2021 with the first Neptune 2 rocket launch from Interorbital Systems (IOS).
 

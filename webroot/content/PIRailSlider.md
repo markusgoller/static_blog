@@ -4,11 +4,11 @@ Modified: 2020-07-25 19:30
 og_image:images/IMG_20200705_163233_edited_1.jpg
 Tags: Raspberry Pi, Python, Time Lapse
 
-** One project I did and currently do is the following.**
+# One project I did and currently do is the following.
+Here you can see the whole construction at a glance.
 ![Photo]({attach}images/IMG_20200712_115919_compressed.jpg)
-#### Here you can see the whole construction at a glance.
 
-Well, what's all this. As you can see, here is a Rasperry Pi mounted on a metal sled. 
+Well, what's all this. As you can see, here is a Rasperry Pi (Pi) mounted on a metal sled. 
 Basically the camera is pulled along the sled with the help of a motor. I was inspired by the projects of this page [www.DavidHunt.ie](http://www.davidhunt.ie/).
 
 ## Construction
@@ -16,18 +16,18 @@ Basically the camera is pulled along the sled with the help of a motor. I was in
 ![Photo]({attach}images/IMG_20200709_191045_resize.jpg)
 
 #### What I basically needed for this project
-* Raspberry Pi (Pi)
-* Pi Camera
-* Touchscreen
-* 5V Powerbank
+* Pi
+* Pi camera
+* touchscreen
+* 5V powerbank
 * wires
-* geared 12V DC Motor
+* geared 12V DC motor
 * belt
 * washer for fixing the belt
-* 2 iron rods (I took clothes rails)
-* sled 
-* ball bearings
+* 2 iron rods (clothes rails)
 * mounting plate
+* u-shaped aluminum profile
+* ball bearings
 * ...
 
 ## Code Snippets
