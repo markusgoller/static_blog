@@ -33,7 +33,7 @@ Below is a picture of the basis station.
 Here you can see a sample screenshot of my PWS taken from Wunderground suitable to the photo above. 
 ![Photo]({attach}images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
 
-Finally a link to [live data of my PWS](https://www.wunderground.com/dashboard/pws/IPATSC2/graph/2019-07-2/2019-07-2/daily).
+Finally a link to [live data of my PWS](https://www.wunderground.com/dashboard/pws/IPATSC2/).
 
 ### Will be be continued...
 
