@@ -9,17 +9,13 @@ Tags: Arduino, Satellite, Space, Environment
 I built my own satellite and launch it into space ;-).
 Well you will ask yourself, how is this possible?
 Short answer, crowdfunding via [Kickstarter](https://www.kickstarter.com/projects/ambasat/ambasat-1-an-educational-space-satellite-kit?lang=de) make it possible.
-The campaign was launched in May 2020 and ended in July 2019.
-
+The campaign was launched in May 2020 and ended in July 2019.   
 The so called [AmbaSAT-1](https://ambasat.com/) is a small satellite (Sprite-class Space satellite). 
 The sprites will be sent to everybody who backed a kit. 
-There are a few options how to equip your satellite, I took a gas sensor [AmbaSat-1 Sensor 03 – BME680](https://ambasat.com/product/ambasat-1-sensor-03/).  
-Depending on the kit you backed, you can assemble and code it yourself.
-
+There are a few options how to equip your satellite, I took a gas sensor [AmbaSat-1 Sensor 03 – BME680](https://ambasat.com/product/ambasat-1-sensor-03/).  Depending on the kit you backed, you can assemble and code it yourself.   
 The next step is testing the sensors mounted on the satellite, AmbaSat has therefore it's own Dashboard.
 About two month before launch the spacecraft will be send back to AmbaSAT and they will do pre-launch testings.
-They will do a compliance-, two-week soak-, followed by a vibration test.
-
+They will do a compliance-, two-week soak-, followed by a vibration test.   
 Then if everything is ok the spacecrafts will be send to [Interorbital Systems](https://www.interorbital.com/) (IOS).
 Before launching, the individual spacecrafts will be deployed in a CubeSAT.
 

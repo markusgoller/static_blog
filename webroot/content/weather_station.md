@@ -4,7 +4,7 @@ Modified: 2020-07-25 19:30
 og_image:images/IMG_20200630_170836_edited_1.jpg
 Tags: Raspberry Pi, Python, weather station
 
-# As a studied atmospheric scientist it is almost a duty to operate a personal weather station (PWS).
+# As a studied atmospheric scientist it is almost a duty to operate a personal weather station [(PWS)](https://www.wunderground.com/dashboard/pws/IPATSC2/).
 
 Here you can see the outside sensors.
 ![Photo]({attach}images/IMG_20200705_154307_resize.jpg)
@@ -15,6 +15,9 @@ The data is than hosted via [weex](http://www.weewx.com/) to [Wunderground](http
 
 Below is a picture of the basis station.
 ![Photo]({attach}images/IMG_20200726_172233_resize.jpg)
+
+Here you can see a sample screenshot of my PWS taken from Wunderground suitable to the photo above. 
+![Photo]({attach}images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
 
 ## Technical Data:
 ### basis station
@@ -29,9 +32,6 @@ Below is a picture of the basis station.
 * wind speed
 * illumination strength
 * UV-index
-
-Here you can see a sample screenshot of my PWS taken from Wunderground suitable to the photo above. 
-![Photo]({attach}images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
 
 Finally a link to [live data of my PWS](https://www.wunderground.com/dashboard/pws/IPATSC2/).
 

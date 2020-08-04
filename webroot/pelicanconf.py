@@ -61,3 +61,4 @@ AUTHORS_BIO = {
   }
 }
 
+MENUITEMS = [('Home', '/'), ('Archives', '/archives.html')]
