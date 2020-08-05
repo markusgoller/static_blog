@@ -72,7 +72,7 @@ while True:
         print('=============== Doing nothing at this time')
 ```
 ## Youtube Testvideo
-[Minions Banana Song Full Song](https://www.youtube.com/watch?v=-9EHdp1ynUU)
+[![Minions Banana Song Full Song](http://img.youtube.com/vi/-9EHdp1ynUU/0.jpg)](https://www.youtube.com/watch?v=-9EHdp1ynUU)
 
 
 
