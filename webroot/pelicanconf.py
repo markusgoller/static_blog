@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Theme
-THEME='../../pelican_themes/attila_msvalina'
+THEME='../../pelican_themes/attila_msvalina_tipue_search_tests'
 HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
 #HOME_COVER = 'images/IMG-20200726-WA0003.jpg'
 
