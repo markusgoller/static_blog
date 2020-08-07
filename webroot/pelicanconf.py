@@ -62,6 +62,6 @@ AUTHORS_BIO = {
 }
 
 PLUGIN_PATHS = ['../../pelican-plugins']
-PLUGINS = ['../../tipue_search']
+PLUGINS = ['tipue_search']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search'))
 MENUITEMS = [('Home', '/'), ('Archives', '/archives.html'), ('Search', '/search.html')]
