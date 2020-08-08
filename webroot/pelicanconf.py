@@ -37,7 +37,8 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Theme
-THEME='../../pelican_themes/attila'
+# Forked from orginal markusgoller/attilla
+THEME='../../pelican_themes/attila'   
 HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
 #HOME_COVER = 'images/IMG-20200726-WA0003.jpg'
 
