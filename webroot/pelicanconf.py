@@ -41,17 +41,6 @@ THEME='../../pelican_themes/attila_msvalina'
 HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
 #HOME_COVER = 'images/IMG-20200726-WA0003.jpg'
 
-# Theme
-#THEME='../../pelican_themes/pelican-clean-blog'
-#HEADER_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
-
-# Theme
-#THEME='../../pelican_themes/attila_arulrajnet'
-#HEADER_COLOR =  'green'
-#HEADER_COVER = 'images/elenabsl_shutterstock.jpg'
-#HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
-#HOME_COVER = 'https://github.com/arulrajnet/attila/blob/master/static/images/post-bg.jpg'
-
 AUTHORS_BIO = {
   "markus": {
     "name": "Markus",
