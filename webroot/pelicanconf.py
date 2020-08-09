@@ -49,7 +49,10 @@ DEFAULT_PAGINATION = False
 
 # Theme
 # Forked from orginal markusgoller/attilla
-THEME='../../pelican_themes/attila'   
+#THEME='../../pelican_themes/attila'   
+#HEADER_COLOR =  'green'
+
+THEME='../../pelican_themes/elegant'   
 HEADER_COLOR =  'green'
 
 AUTHORS_BIO = {
@@ -61,7 +64,7 @@ AUTHORS_BIO = {
   }
 }
 
-DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search'))
 PLUGIN_PATHS = ['../../pelican-plugins']
 PLUGINS = ['tipue_search']
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search'))
 MENUITEMS = [('Search', '/search.html')]
