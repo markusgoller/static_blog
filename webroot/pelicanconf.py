@@ -37,12 +37,6 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Theme
-# Forked from orginal markusgoller/attilla
-THEME='../../pelican_themes/attila'   
-HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
-#HOME_COVER = 'images/IMG-20200726-WA0003.jpg'
-
-# Theme
 #THEME='../../pelican_themes/pelican-clean-blog'
 #HEADER_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
 
@@ -53,6 +47,11 @@ HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
 #HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
 #HOME_COVER = 'https://github.com/arulrajnet/attila/blob/master/static/images/post-bg.jpg'
 
+# Theme
+# Forked from orginal markusgoller/attilla
+THEME='../../pelican_themes/attila'   
+HEADER_COLOR =  'green'
+
 AUTHORS_BIO = {
   "markus": {
     "name": "Markus",
@@ -62,7 +61,7 @@ AUTHORS_BIO = {
   }
 }
 
+DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search'))
 PLUGIN_PATHS = ['../../pelican-plugins']
 PLUGINS = ['tipue_search']
-DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search'))
-MENUITEMS = [('Home', '/'), ('Archives', '/archives.html'), ('Search', '/search.html')]
+MENUITEMS = [('Search', '/search.html')]
