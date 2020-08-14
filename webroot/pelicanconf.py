@@ -38,7 +38,8 @@ DEFAULT_PAGINATION = False
 
 # Theme
 THEME='../../pelican_themes/attila_msvalina'
-HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
+#HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
+HOME_COVER = 'images/PSX_20200814_222100.jpg'
 #HOME_COVER = 'images/IMG-20200726-WA0003.jpg'
 
 AUTHORS_BIO = {
