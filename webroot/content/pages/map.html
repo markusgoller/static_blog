@@ -12,22 +12,22 @@
 </head>
 
 <body>
-    <div id="mapid" style="width: 100%; height: 400px;"></div>
+    <div id="markusmap" data='{"lon": 47, "lat": 11, "polygon": "[47.509, -12.08], [47.503, -12.06], [47.511, -12.047]", "marker": "Markus"}' style="width: 100%; height: 400px;"></div>
     <script>
-        var mymap = L.map('mapid').setView([51.505, -0.09], 13);
+        let wrapper = document.getElementById("markusmap")
+        let data = wrapper.attributes['data'].value
+        console.log(data)
+        data = JSON.parse(data)
+        let position = [data.lon, data.lat]
+        var mymap = L.map('markusmap').setView(position, 13);
 
-        L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             maxZoom: 18,
-            attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, ' +
-                '<a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-                'Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-            id: 'mapbox/streets-v11',
-            tileSize: 512,
-            zoomOffset: -1
+            attribution: 'Kartendaten &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> Mitwirkende',
         }).addTo(mymap);
 
         L.marker([51.5, -0.09]).addTo(mymap)
-            .bindPopup("<b>Hello world!</b><br />I am a popup.").openPopup();
+            .bindPopup("<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.python.org%2F&psig=AOvVaw1KiFpVyOdPufNo7n-xaDwp&ust=1599332620845000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKClm8CY0OsCFQAAAAAdAAAAABAE'></img>").openPopup();
 
         L.circle([51.508, -0.11], 500, {
             color: 'red',
@@ -35,11 +35,7 @@
             fillOpacity: 0.5
         }).addTo(mymap).bindPopup("I am a circle.");
 
-        L.polygon([
-            [51.509, -0.08],
-            [51.503, -0.06],
-            [51.51, -0.047]
-        ]).addTo(mymap).bindPopup("I am a polygon.");
+        L.polygon(data.polygon).addTo(mymap).bindPopup(data.marker);
 
 
         var popup = L.popup();
