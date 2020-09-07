@@ -20,7 +20,7 @@ Here you can see a sample screenshot of my PWS taken from Wunderground suitable 
 ![Photo]({attach}images/renkforce_weather_history_ipatsc2_Screenshot from 2020-07-27 21-01-11.png)
 
 ## Technical Data:
-### basis station
+### basis station sensors
 * temperature
 * humidity
 * barometric pressure
