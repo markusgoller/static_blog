@@ -37,9 +37,9 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Theme
-THEME='../../pelican_themes/attila_msvalina'
-#THEME='../../pelican_themes/attila'
-#THEME='../../pelican_themes/attila_newest'
+THEME='../pelican_themes/attila_msvalina'
+#THEME='../pelican_themes/attila'
+#THEME='../pelican_themes/attila_newest'
 # Code highlights
 #COLOR_SCHEME_CSS = 'github.css'
 
@@ -85,4 +85,4 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 # }
 
 # # Pelican plugins
-# PLUGIN_PATHS = ['../../pelican-plugins']
+# PLUGIN_PATHS = ['../pelican-plugins']
