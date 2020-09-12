@@ -86,3 +86,5 @@ IGNORE_FILES = [".ipynb_checkpoints"]
 
 # # Pelican plugins
 # PLUGIN_PATHS = ['../pelican-plugins']
+
+
