@@ -1,3 +1,3 @@
-[submodule "/pelican_themes/attila_msvalina"]
-	path = /pelican_themes/attila_msvalina
+[submodule "pelican_themes/attila_msvalina"]
+	path = pelican_themes/attila_msvalina
 	url = https://github.com/msvalina/attila.git
