@@ -1,0 +1,16 @@
+[submodule "pelican_themes/pelican-clean-blog"]
+	path = pelican_themes/pelican-clean-blog
+	url = https://github.com/gilsondev/pelican-clean-blog.git
+	branch = master
+[submodule "pelican_themes/elegant"]
+	path = pelican_themes/elegant
+	url = https://github.com/Pelican-Elegant/elegant.git
+	branch = master	
+[submodule "pelican_themes/attila"]
+	path = pelican_themes/attila
+	url = https://github.com/markusgoller/attila.git
+	branch = master
+[submodule "pelican-plugins"]
+	path = pelican-plugins
+	url = https://github.com/getpelican/pelican-plugins.git
+	branch = master

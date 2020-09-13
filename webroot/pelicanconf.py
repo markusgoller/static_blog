@@ -37,11 +37,18 @@ DEFAULT_PAGINATION = False
 #RELATIVE_URLS = True
 
 # Theme
-#THEME='../../pelican_themes/pelican-clean-blog'
+# tipue_search works
+#THEME='../pelican_themes/pelican-clean-blog'
 #HEADER_COVER = 'pages/images/dreizinnen_wanderung_nik.JPG'
 
 # Theme
-#THEME='../../pelican_themes/attila_arulrajnet'
+# tipue_search works
+#THEME='../pelican_themes/elegant'   
+#HEADER_COLOR =  'green'
+
+# Theme
+# Is now not integrated --> because of name conflict (atilla, atilla)
+#THEME='../pelican_themes/attila_arulrajnet'
 #HEADER_COLOR =  'green'
 #HEADER_COVER = 'images/elenabsl_shutterstock.jpg'
 #HOME_COVER = 'https://casper.ghost.org/v1.0.0/images/welcome.jpg'
@@ -49,10 +56,7 @@ DEFAULT_PAGINATION = False
 
 # Theme
 # Forked from orginal markusgoller/attilla
-#THEME='../../pelican_themes/attila'   
-#HEADER_COLOR =  'green'
-
-THEME='../../pelican_themes/elegant'   
+THEME='../pelican_themes/attila'   
 HEADER_COLOR =  'green'
 
 AUTHORS_BIO = {
@@ -64,7 +68,7 @@ AUTHORS_BIO = {
   }
 }
 
-PLUGIN_PATHS = ['../../pelican-plugins']
+PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['tipue_search']
 DIRECT_TEMPLATES = (('index', 'tags', 'categories', 'archives', 'search'))
 MENUITEMS = [('Search', '/search.html')]
