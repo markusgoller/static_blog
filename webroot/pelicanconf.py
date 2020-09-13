@@ -41,7 +41,7 @@ THEME='../pelican_themes/attila'
 # Code highlights
 #COLOR_SCHEME_CSS = 'github.css'
 
-#Cover
+# Cover
 #HOME_COVER = 'images/dreizinnen_wanderung_nik.JPG'
 #HOME_COVER = 'images/PSX_20200814_222100.jpg'
 HOME_COVER = 'images/IMG_20200819_130938_resize.jpg'
