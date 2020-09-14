@@ -21,6 +21,16 @@ cd ./webroot
 make html
 ```
 
+## Uploading Pictures
+og_image and pelican HOME_COVER in landscape format.
+
+downsize quality
+```
+cd ./content/images 
+convert IMG_Example.jpg -quality 50 IMG_Example_resize.jpg
+```
+
+
 ## Deploy
 Upload local files including the built Pelican website to the server.
 
