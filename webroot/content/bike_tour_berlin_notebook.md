@@ -8,7 +8,7 @@ Since my brother and I belong more to the sporty guys, we thought, why shouldn't
 So we grabbed a rental bike and went for a spin through Berlin.
 Since I personally haven't created a jupyter notebook for a while now, I think this is a good opportunity.
 
-### What is planed:
+### What is planned:
 A map with all the routes we have taken this will include the following Python elements:
 
 * Jupyter Notebook
