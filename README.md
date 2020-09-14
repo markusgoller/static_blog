@@ -21,7 +21,7 @@ cd ./webroot
 make html
 ```
 
-## Uploading Pictures
+## Uploading images
 og_image and pelican HOME_COVER in landscape format.
 
 downsize quality
