@@ -64,6 +64,14 @@ from pelican_jupyter import liquid as nb_liquid
 PLUGINS = [nb_liquid]
 IGNORE_FILES = [".ipynb_checkpoints"]
 
+# Favicon
+EXTRA_PATH_METADATA = {
+    'favicon/CNAME': {'path': 'CNAME'},
+    'favicon/favicon.ico': {'path': 'favicon.ico'},
+    'favicon/README-for-docs.md': {'path': 'README.md'},
+    'favicon/google684a6a967bc36817.html': {'path': 'google684a6a967bc36817.html'},
+    }
+
 # # Markdown customization
 # MARKDOWN = {
 #     'extension_configs': {
