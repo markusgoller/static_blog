@@ -2,7 +2,7 @@ name: release on GH-Pages
 
 on:
   push:
-    branches: [ master ]
+    branches: [ deployment-on-gh-pages ]
 
 jobs:
   gh-pages:
