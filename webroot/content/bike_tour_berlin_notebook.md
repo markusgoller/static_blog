@@ -1,4 +1,4 @@
-Title: Bike tour Berlin (Jupyter Notebook)
+Title: Test Bike tour Berlin (Jupyter Notebook)
 Date: 2020-08-26 16:00
 og_image:images/IMG_20200819_140131_resize.jpg
 

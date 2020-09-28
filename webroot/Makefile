@@ -8,12 +8,6 @@ OUTPUTDIR=$(BASEDIR)/markusgoller
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-SSH_HOST=markusgoller.at
-SSH_PORT=22
-SSH_USER=webserver
-SSH_TARGET_DIR=/www/markusgoller
-
-
 DEBUG ?= 0
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D

@@ -8,8 +8,9 @@ jobs:
   gh-pages:
     name: Build markusgoller.at
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout Repo
+      - name: Checkout repository
         uses: actions/checkout@v2
 
 
